@@ -25,3 +25,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#I have some imgs I don't want to commit
+imgs
